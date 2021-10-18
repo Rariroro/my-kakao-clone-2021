@@ -1,0 +1,9 @@
+.shopping__box {
+  width: 30%;
+  border-radius: 10px;
+  box-shadow: 0 3px 20px -12px;
+}
+
+.menu__box ol li {
+  padding: 30px;
+}

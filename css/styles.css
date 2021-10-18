@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+@import "reset.css";
+@import "variables.css";
+
+/* components */
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/menu-bar.css";
+@import "components/no-mobile.css";
+/* screens */
+@import "screens/login.css";
+@import "screens/flower.css";
+@import "screens/menu.css";
+@import "screens/shop.css";
+@import "screens/search.css";
+@import "screens/shopping-bag.css";
+
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 1400px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 700px;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.menu__bar {
+  position: fixed;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  top: 40px;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
